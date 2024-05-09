@@ -1,3 +1,10 @@
-### Mục đích
+### Cryptography Vulnerabilities
 
-_Trong phần này mình sẽ đưa ra một số lỗ hổng trong mật mã mà mình đã được gặp hay biết đến, nhằm mục đích phục vụ trong việc học tập và nghiên cứu mật mã học._
+_This repository aims to explore and document various vulnerabilities and weaknesses in cryptographic systems. Cryptography plays a crucial role in securing digital communications and sensitive data. However, like any technology, cryptographic systems are not immune to vulnerabilities and weaknesses that could potentially compromise their security._
+
+
+#### Introduction
+
+_Cryptography is the science of secure communication, encompassing techniques such as encryption, decryption, and authentication. It is utilized in various applications, including securing communications over the internet, protecting sensitive data, and ensuring the integrity of digital transactions._
+
+_However, cryptographic systems can be vulnerable to attacks due to implementation flaws, mathematical weaknesses, or advancements in computational power. Understanding these vulnerabilities is crucial for designing robust cryptographic protocols and systems._
